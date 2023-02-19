@@ -15,7 +15,11 @@ Jupyter Notebook
 ### Libraries used:
 ```
 pandas
-
+seaborn
+matplotlib.pyplot
+sklearn.experimental
+sklearn.impute
+sklearn.model
 ```
 
 ### Dataset used:
